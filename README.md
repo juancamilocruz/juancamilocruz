@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **juan.camilocruz.sotelo@gmail.com**
 
-- 📄 Know about my experiences [Junior Software and Hardware Developer. CEO of Camtronics CO, a company involved in the planning, implementation, evaluation and feedback of 4IR projects. Mechatronics Engineer by profession. Outstanding experience in Scientific Research, Automation, Robotics, IoT and Multipurpose Hardware and Software Development. Integrator, value-oriented, committed to details and people-centric.](Junior Software and Hardware Developer. CEO of Camtronics CO, a company involved in the planning, implementation, evaluation and feedback of 4IR projects. Mechatronics Engineer by profession. Outstanding experience in Scientific Research, Automation, Robotics, IoT and Multipurpose Hardware and Software Development. Integrator, value-oriented, committed to details and people-centric.)
+- 📄 Know about my experiences [Junior Software and Hardware Developer. CEO of Camtronics CO, a company involved in the planning, implementation, evaluation and feedback of 4IR projects. Mechatronics Engineer by profession. Outstanding experience in Scientific Research, Automation, Robotics, IoT and Multipurpose Hardware and Software Development. Integrator, value-oriented, committed to details and people-centric.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
